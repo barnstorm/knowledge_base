@@ -1,1 +1,3 @@
-= Wrarmstrong's KB =
+= barnstorm's KB =
+
+	* [[game_docs]] -- A Place for notes about game ideas

@@ -1,0 +1,4 @@
+= Game Docs = 
+
+A new place for notes about boardgame ideas
+[[index]]
