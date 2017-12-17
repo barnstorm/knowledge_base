@@ -1,3 +1,6 @@
-= barnstorm's KB =
+	= barnstorm =
+== Bill Armstrong's Notes and things ==
 
-	* [[game_docs]] -- A Place for notes about game ideas
+	*  [[notes]]
+	*  [[game docs]] -- A Place for notes about game ideas
+	*  [[Quotes]] -- Funny things I've heard
